@@ -1,0 +1,894 @@
+[
+  {
+    "english": "Orbicularis_Oculi",
+    "chinese": "眼轮匝肌"
+  },
+  {
+    "english": "Orbicularis_Oris",
+    "chinese": "口轮匝肌"
+  },
+  {
+    "english": "Corrugator_Supercilii",
+    "chinese": "皱眉肌"
+  },
+  {
+    "english": "Occipitofrontalis_Frontal",
+    "chinese": "额枕肌-额部"
+  },
+  {
+    "english": "Depressor_Supercilii",
+    "chinese": "降眉肌"
+  },
+  {
+    "english": "Eyes",
+    "chinese": "眼部"
+  },
+  {
+    "english": "Procerus",
+    "chinese": "降眉间肌"
+  },
+  {
+    "english": "Auricular_Cartilage",
+    "chinese": "耳软骨"
+  },
+  {
+    "english": "Occipitofrontalis_Occipital",
+    "chinese": "额枕肌-枕部"
+  },
+  {
+    "english": "Depressor_Anguli_Oris",
+    "chinese": "降口角肌"
+  },
+  {
+    "english": "Mentalis",
+    "chinese": "颏肌"
+  },
+  {
+    "english": "Depressor_Labii_Inferioris",
+    "chinese": "降下唇肌"
+  },
+  {
+    "english": "Depressor_Septi_Nasi",
+    "chinese": "降鼻中隔肌"
+  },
+  {
+    "english": "Masseter_Deep",
+    "chinese": "咬肌-深层"
+  },
+  {
+    "english": "Masseter_Superficial",
+    "chinese": "咬肌-浅层"
+  },
+  {
+    "english": "Greater_Alar_Cartilage",
+    "chinese": "鼻翼大软骨"
+  },
+  {
+    "english": "Lateral_Nasal_Cartilage",
+    "chinese": "鼻外侧软骨"
+  },
+  {
+    "english": "Nasalis_Transverese",
+    "chinese": "鼻肌-横部"
+  },
+  {
+    "english": "Septal_Cartilage",
+    "chinese": "鼻中隔软骨"
+  },
+  {
+    "english": "Nasalis_Alar",
+    "chinese": "鼻肌-翼部"
+  },
+  {
+    "english": "Genioglossus",
+    "chinese": "颏舌肌"
+  },
+  {
+    "english": "Zygomaticus_Major",
+    "chinese": "颧大肌"
+  },
+  {
+    "english": "Risorius",
+    "chinese": "笑肌"
+  },
+  {
+    "english": "Zygomaticus_Minor",
+    "chinese": "颧小肌"
+  },
+  {
+    "english": "Levator_Labii_Superioris",
+    "chinese": "提上唇肌"
+  },
+  {
+    "english": "Levator_Labii_Superioris_Alaeque_Nasi",
+    "chinese": "提上唇鼻翼肌"
+  },
+  {
+    "english": "Buccinator",
+    "chinese": "颊肌"
+  },
+  {
+    "english": "Temporalis",
+    "chinese": "颞肌"
+  },
+  {
+    "english": "Mylohyoid",
+    "chinese": "下颌舌骨肌"
+  },
+  {
+    "english": "Digastric",
+    "chinese": "二腹肌"
+  },
+  {
+    "english": "External_Oblique",
+    "chinese": "腹外斜肌"
+  },
+  {
+    "english": "Iliocostalis_Lumborum",
+    "chinese": "髂肋肌-腰部"
+  },
+  {
+    "english": "Latissimus_Dorsi",
+    "chinese": "背阔肌"
+  },
+  {
+    "english": "Levator_Scapulae",
+    "chinese": "肩胛提肌"
+  },
+  {
+    "english": "Longissimus_Thoracis",
+    "chinese": "最长肌-胸部"
+  },
+  {
+    "english": "Omohyoid",
+    "chinese": "肩胛舌骨肌"
+  },
+  {
+    "english": "Pectoralis_Major_01_Clavicular",
+    "chinese": "胸大肌-锁骨部"
+  },
+  {
+    "english": "Pectoralis_Major_02_Sternocostal",
+    "chinese": "胸大肌-胸肋部"
+  },
+  {
+    "english": "Pectoralis_Major_03_Abdominal",
+    "chinese": "胸大肌-腹部"
+  },
+  {
+    "english": "Pectoralis_Minor",
+    "chinese": "胸小肌"
+  },
+  {
+    "english": "Psoas_Major",
+    "chinese": "腰大肌"
+  },
+  {
+    "english": "Psoas_Minor",
+    "chinese": "腰小肌"
+  },
+  {
+    "english": "Rectus_Abdominis",
+    "chinese": "腹直肌"
+  },
+  {
+    "english": "Rhomboideus_Major",
+    "chinese": "大菱形肌"
+  },
+  {
+    "english": "Rhomboideus_Minor",
+    "chinese": "小菱形肌"
+  },
+  {
+    "english": "Scalenus_Medius",
+    "chinese": "中斜角肌"
+  },
+  {
+    "english": "Semispinalis_Capitis_Lateral",
+    "chinese": "头半棘肌-外侧"
+  },
+  {
+    "english": "Semispinalis_Capitis_Medial",
+    "chinese": "头半棘肌-内侧"
+  },
+  {
+    "english": "Serratus_Anterior",
+    "chinese": "前锯肌"
+  },
+  {
+    "english": "Serratus_Posterior_Inferior",
+    "chinese": "下后锯肌"
+  },
+  {
+    "english": "Serratus_Posterior_Superior",
+    "chinese": "上后锯肌"
+  },
+  {
+    "english": "Spinalis_Thoracis",
+    "chinese": "棘肌-胸部"
+  },
+  {
+    "english": "Splenius_Capitis",
+    "chinese": "头夹肌"
+  },
+  {
+    "english": "Splenius_Cervicis",
+    "chinese": "颈夹肌"
+  },
+  {
+    "english": "Sternocleidomastoid",
+    "chinese": "胸锁乳突肌"
+  },
+  {
+    "english": "Sternohyoid",
+    "chinese": "胸骨舌骨肌"
+  },
+  {
+    "english": "Trapezius_01_Upper",
+    "chinese": "斜方肌-上部"
+  },
+  {
+    "english": "Trapezius_02_Middle",
+    "chinese": "斜方肌-中部"
+  },
+  {
+    "english": "Trapezius_03_Lower",
+    "chinese": "斜方肌-下部"
+  },
+  {
+    "english": "External_Oblique_R",
+    "chinese": "腹外斜肌-右侧"
+  },
+  {
+    "english": "Iliocostalis_Lumborum_R",
+    "chinese": "髂肋肌腰部-右侧"
+  },
+  {
+    "english": "Latissimus_Dorsi_R",
+    "chinese": "背阔肌-右侧"
+  },
+  {
+    "english": "Levator_Scapulae_R",
+    "chinese": "肩胛提肌-右侧"
+  },
+  {
+    "english": "Longissimus_Thoracis_R",
+    "chinese": "最长肌胸部-右侧"
+  },
+  {
+    "english": "Omohyoid_R",
+    "chinese": "肩胛舌骨肌-右侧"
+  },
+  {
+    "english": "Pectoralis_Major_01_Clavicular_R",
+    "chinese": "胸大肌锁骨部-右侧"
+  },
+  {
+    "english": "Pectoralis_Major_02_Sternocostal_R",
+    "chinese": "胸大肌胸肋部-右侧"
+  },
+  {
+    "english": "Pectoralis_Major_03_Abdominal_R",
+    "chinese": "胸大肌腹部-右侧"
+  },
+  {
+    "english": "Pectoralis_Minor_R",
+    "chinese": "胸小肌-右侧"
+  },
+  {
+    "english": "Psoas_Major_R",
+    "chinese": "腰大肌-右侧"
+  },
+  {
+    "english": "Psoas_Minor_R",
+    "chinese": "腰小肌-右侧"
+  },
+  {
+    "english": "Rectus_Abdominis_R",
+    "chinese": "腹直肌-右侧"
+  },
+  {
+    "english": "Rhomboideus_Major_R",
+    "chinese": "大菱形肌-右侧"
+  },
+  {
+    "english": "Rhomboideus_Minor_R",
+    "chinese": "小菱形肌-右侧"
+  },
+  {
+    "english": "Scalenus_Medius_R",
+    "chinese": "中斜角肌-右侧"
+  },
+  {
+    "english": "Semispinalis_Capitis_Lateral_R",
+    "chinese": "头半棘肌外侧-右侧"
+  },
+  {
+    "english": "Semispinalis_Capitis_Medial_R",
+    "chinese": "头半棘肌内侧-右侧"
+  },
+  {
+    "english": "Serratus_Anterior_R",
+    "chinese": "前锯肌-右侧"
+  },
+  {
+    "english": "Serratus_Posterior_Inferior_R",
+    "chinese": "下后锯肌-右侧"
+  },
+  {
+    "english": "Serratus_Posterior_Superior_R",
+    "chinese": "上后锯肌-右侧"
+  },
+  {
+    "english": "Spinalis_Thoracis_R",
+    "chinese": "胸棘肌-右侧"
+  },
+  {
+    "english": "Splenius_Capitis_R",
+    "chinese": "头夹肌-右侧"
+  },
+  {
+    "english": "Splenius_Cervicis_R",
+    "chinese": "颈夹肌-右侧"
+  },
+  {
+    "english": "Sternocleidomastoid_R",
+    "chinese": "胸锁乳突肌-右侧"
+  },
+  {
+    "english": "Sternohyoid_R",
+    "chinese": "胸骨舌骨肌-右侧"
+  },
+  {
+    "english": "Trapezius_01_Upper_R",
+    "chinese": "斜方肌上部-右侧"
+  },
+  {
+    "english": "Trapezius_02_Middle_R",
+    "chinese": "斜方肌中部-右侧"
+  },
+  {
+    "english": "Trapezius_03_Lower_R",
+    "chinese": "斜方肌下部-右侧"
+  },
+  {
+    "english": "Ischium",
+    "chinese": "坐骨"
+  },
+  {
+    "english": "Iliococygeus",
+    "chinese": "髂尾肌"
+  },
+  {
+    "english": "Coccygeus",
+    "chinese": "尾骨肌"
+  },
+  {
+    "english": "Anal_Sphincter_External_Superficial",
+    "chinese": "肛门外括约肌浅部"
+  },
+  {
+    "english": "Pubococcygeus",
+    "chinese": "耻骨尾骨肌"
+  },
+  {
+    "english": "Anal_Sphincter_External",
+    "chinese": "肛门外括约肌"
+  },
+  {
+    "english": "Puborectalis",
+    "chinese": "耻骨直肠肌"
+  },
+  {
+    "english": "Superficial_Transverse_Perineal",
+    "chinese": "会阴浅横肌"
+  },
+  {
+    "english": "Deep_Transverse_Perineal",
+    "chinese": "会阴深横肌"
+  },
+  {
+    "english": "Triceps_Medial_Head",
+    "chinese": "肱三头肌-内侧头"
+  },
+  {
+    "english": "Brachialis",
+    "chinese": "肱肌"
+  },
+  {
+    "english": "Triceps_Lateral_Long_Heads",
+    "chinese": "肱三头肌-外侧头&长头"
+  },
+  {
+    "english": "Biceps_Brachii",
+    "chinese": "肱二头肌"
+  },
+  {
+    "english": "Corabrachialis",
+    "chinese": "喙肱肌"
+  },
+  {
+    "english": "Deltoid_Anterior",
+    "chinese": "三角肌-前束"
+  },
+  {
+    "english": "Infraspinatus",
+    "chinese": "冈下肌"
+  },
+  {
+    "english": "Subscapularis",
+    "chinese": "肩胛下肌"
+  },
+  {
+    "english": "Supraspinatus",
+    "chinese": "冈上肌"
+  },
+  {
+    "english": "Teres_Major",
+    "chinese": "大圆肌"
+  },
+  {
+    "english": "Teres_Minor",
+    "chinese": "小圆肌"
+  },
+  {
+    "english": "Deltoid_Middle",
+    "chinese": "三角肌-中束"
+  },
+  {
+    "english": "Deltoid_Posterior",
+    "chinese": "三角肌-后束"
+  },
+  {
+    "english": "Triceps_Medial_Head_R",
+    "chinese": "肱三头肌内侧头-右侧"
+  },
+  {
+    "english": "Brachialis_R",
+    "chinese": "肱肌-右侧"
+  },
+  {
+    "english": "Triceps_Lateral_Long_Heads_R",
+    "chinese": "肱三头肌外侧长头-右侧"
+  },
+  {
+    "english": "Corabrachialis_R",
+    "chinese": "喙肱肌-右侧"
+  },
+  {
+    "english": "Infraspinatus_R",
+    "chinese": "冈下肌-右侧"
+  },
+  {
+    "english": "Subscapularis_R",
+    "chinese": "肩胛下肌-右侧"
+  },
+  {
+    "english": "Supraspinatus_R",
+    "chinese": "冈上肌-右侧"
+  },
+  {
+    "english": "Teres_Major_R",
+    "chinese": "大圆肌-右侧"
+  },
+  {
+    "english": "Teres_Minor_R",
+    "chinese": "小圆肌-右侧"
+  },
+  {
+    "english": "Deltoid_Middle_R",
+    "chinese": "三角肌中束-右侧"
+  },
+  {
+    "english": "Deltoid_Posterior_R",
+    "chinese": "三角肌后束-右侧"
+  },
+  {
+    "english": "Deltoid_Anterior_R",
+    "chinese": "三角肌前束-右侧"
+  },
+  {
+    "english": "Biceps_Brachii_R",
+    "chinese": "肱二头肌-右侧"
+  },
+  {
+    "english": "Extensor_Indicis",
+    "chinese": "示指伸肌"
+  },
+  {
+    "english": "Extensor_Carpi_Radialis_Brevis",
+    "chinese": "桡侧腕短伸肌"
+  },
+  {
+    "english": "Extensor_Carpi_Radialis_Longus",
+    "chinese": "桡侧腕长伸肌"
+  },
+  {
+    "english": "Extensor_Digitorum",
+    "chinese": "指伸肌"
+  },
+  {
+    "english": "Extensor_Digiti_Minimi",
+    "chinese": "小指伸肌"
+  },
+  {
+    "english": "Extensor_Carpi_Ulnaris",
+    "chinese": "尺侧腕伸肌"
+  },
+  {
+    "english": "Anconeus",
+    "chinese": "肘肌"
+  },
+  {
+    "english": "Abductor_Pollicis_Longus",
+    "chinese": "拇长展肌"
+  },
+  {
+    "english": "Extensor_Pollicis_Longus",
+    "chinese": "拇长伸肌"
+  },
+  {
+    "english": "Extensor_Pollicis_Brevis",
+    "chinese": "拇短伸肌"
+  },
+  {
+    "english": "Supinator",
+    "chinese": "旋后肌"
+  },
+  {
+    "english": "Abductor_Pollicis_Longus_R",
+    "chinese": "拇长展肌-右侧"
+  },
+  {
+    "english": "Anconeus_R",
+    "chinese": "肘肌-右侧"
+  },
+  {
+    "english": "Extensor_Carpi_Radialis_Brevis_R",
+    "chinese": "桡侧腕短伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Carpi_Radialis_Longus_R",
+    "chinese": "桡侧腕长伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Carpi_Ulnaris_R",
+    "chinese": "尺侧腕伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Digiti_Minimi_R",
+    "chinese": "小指伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Digitorum_R",
+    "chinese": "指伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Indicis_R",
+    "chinese": "示指伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Pollicis_Brevis_R",
+    "chinese": "拇短伸肌-右侧"
+  },
+  {
+    "english": "Extensor_Pollicis_Longus_R",
+    "chinese": "拇长伸肌-右侧"
+  },
+  {
+    "english": "Supinator_R",
+    "chinese": "旋后肌-右侧"
+  },
+  {
+    "english": "Flexor_Carpi_Radialis",
+    "chinese": "桡侧腕屈肌"
+  },
+  {
+    "english": "Flexor_Carpi_Ulnaris",
+    "chinese": "尺侧腕屈肌"
+  },
+  {
+    "english": "Pronator_Teres",
+    "chinese": "旋前圆肌"
+  },
+  {
+    "english": "Palmaris_Longus",
+    "chinese": "掌长肌"
+  },
+  {
+    "english": "Brachioradialis",
+    "chinese": "肱桡肌"
+  },
+  {
+    "english": "Flexor_Digitorum_Superficialis",
+    "chinese": "指浅屈肌"
+  },
+  {
+    "english": "Flexor_Digitorum_Profundus",
+    "chinese": "指深屈肌"
+  },
+  {
+    "english": "Flexor_Pollicis_Longus",
+    "chinese": "拇长屈肌"
+  },
+  {
+    "english": "Pronator_Quadratus",
+    "chinese": "旋前方肌"
+  },
+  {
+    "english": "Brachioradialis_R",
+    "chinese": "肱桡肌-右侧"
+  },
+  {
+    "english": "Flexor_Carpi_Radialis_R",
+    "chinese": "桡侧腕屈肌-右侧"
+  },
+  {
+    "english": "Flexor_Carpi_Ulnaris_R",
+    "chinese": "尺侧腕屈肌-右侧"
+  },
+  {
+    "english": "Flexor_Digitorum_Profundus_R",
+    "chinese": "指深屈肌-右侧"
+  },
+  {
+    "english": "Flexor_Digitorum_Superficialis_R",
+    "chinese": "指浅屈肌-右侧"
+  },
+  {
+    "english": "Flexor_Pollicis_Longus_R",
+    "chinese": "拇长屈肌-右侧"
+  },
+  {
+    "english": "Palmaris_Longus_R",
+    "chinese": "掌长肌-右侧"
+  },
+  {
+    "english": "Pronator_Quadratus_R",
+    "chinese": "旋前方肌-右侧"
+  },
+  {
+    "english": "Pronator_Teres_R",
+    "chinese": "旋前圆肌-右侧"
+  },
+  {
+    "english": "Adductor_Brevis",
+    "chinese": "短收肌"
+  },
+  {
+    "english": "Adductor_Longus",
+    "chinese": "长收肌"
+  },
+  {
+    "english": "Adductor_Magnus",
+    "chinese": "大收肌"
+  },
+  {
+    "english": "Biceps_Femoris_Long_Head",
+    "chinese": "股二头肌-长头"
+  },
+  {
+    "english": "Biceps_Femoris_Short_Head",
+    "chinese": "股二头肌-短头"
+  },
+  {
+    "english": "Gluteus_Maximus",
+    "chinese": "臀大肌"
+  },
+  {
+    "english": "Gluteus_Medius",
+    "chinese": "臀中肌"
+  },
+  {
+    "english": "Gluteus_Minimus",
+    "chinese": "臀小肌"
+  },
+  {
+    "english": "Gracilis",
+    "chinese": "股薄肌"
+  },
+  {
+    "english": "Iliacus",
+    "chinese": "髂肌"
+  },
+  {
+    "english": "Illiotibial_Tract",
+    "chinese": "髂胫束"
+  },
+  {
+    "english": "Pectineus",
+    "chinese": "耻骨肌"
+  },
+  {
+    "english": "Rectus_Femoris",
+    "chinese": "股直肌"
+  },
+  {
+    "english": "Sartorius",
+    "chinese": "缝匠肌"
+  },
+  {
+    "english": "Semimembranosus",
+    "chinese": "半膜肌"
+  },
+  {
+    "english": "Semitendinosus",
+    "chinese": "半腱肌"
+  },
+  {
+    "english": "Tensor_Fascia_Lata",
+    "chinese": "阔筋膜张肌"
+  },
+  {
+    "english": "Vastus_Intermedius",
+    "chinese": "股中间肌"
+  },
+  {
+    "english": "Vastus_Lateralis",
+    "chinese": "股外侧肌"
+  },
+  {
+    "english": "Vastus_Medialis",
+    "chinese": "股内侧肌"
+  },
+  {
+    "english": "Adductor_Brevis_R",
+    "chinese": "短收肌-右侧"
+  },
+  {
+    "english": "Adductor_Longus_R",
+    "chinese": "长收肌-右侧"
+  },
+  {
+    "english": "Adductor_Magnus_R",
+    "chinese": "大收肌-右侧"
+  },
+  {
+    "english": "Biceps_Femoris_Long_Head_R",
+    "chinese": "股二头肌长头-右侧"
+  },
+  {
+    "english": "Biceps_Femoris_Short_Head_R",
+    "chinese": "股二头肌短头-右侧"
+  },
+  {
+    "english": "Gluteus_Maximus_R",
+    "chinese": "臀大肌-右侧"
+  },
+  {
+    "english": "Gluteus_Medius_R",
+    "chinese": "臀中肌-右侧"
+  },
+  {
+    "english": "Gluteus_Minimus_R",
+    "chinese": "臀小肌-右侧"
+  },
+  {
+    "english": "Gracilis_R",
+    "chinese": "股薄肌-右侧"
+  },
+  {
+    "english": "Iliacus_R",
+    "chinese": "髂肌-右侧"
+  },
+  {
+    "english": "Illiotibial_Tract_R",
+    "chinese": "髂胫束-右侧"
+  },
+  {
+    "english": "Pectineus_R",
+    "chinese": "耻骨肌-右侧"
+  },
+  {
+    "english": "Rectus_Femoris_R",
+    "chinese": "股直肌-右侧"
+  },
+  {
+    "english": "Sartorius_R",
+    "chinese": "缝匠肌-右侧"
+  },
+  {
+    "english": "Semimembranosus_R",
+    "chinese": "半膜肌-右侧"
+  },
+  {
+    "english": "Semitendinosus_R",
+    "chinese": "半腱肌-右侧"
+  },
+  {
+    "english": "Tensor_Fascia_Lata_R",
+    "chinese": "阔筋膜张肌-右侧"
+  },
+  {
+    "english": "Vastus_Lateralis_R",
+    "chinese": "股外侧肌-右侧"
+  },
+  {
+    "english": "Vastus_Medialis_R",
+    "chinese": "股内侧肌-右侧"
+  },
+  {
+    "english": "Vastus_Intermedius_R",
+    "chinese": "股中间肌-右侧"
+  },
+  {
+    "english": "Extensor_Digitorum_Longus",
+    "chinese": "趾长伸肌"
+  },
+  {
+    "english": "Extensor_Hallucis_Longus",
+    "chinese": "踇长伸肌"
+  },
+  {
+    "english": "Fibularis_Brevis",
+    "chinese": "腓骨短肌"
+  },
+  {
+    "english": "Fibularis_Longus",
+    "chinese": "腓骨长肌"
+  },
+  {
+    "english": "Flexor_Digitorum_Longus",
+    "chinese": "趾长屈肌"
+  },
+  {
+    "english": "Flexor_Hallucis_Longus",
+    "chinese": "踇长屈肌"
+  },
+  {
+    "english": "Gastrocnemius_Lateral_Medial",
+    "chinese": "腓肠肌-内外侧"
+  },
+  {
+    "english": "Patellar_Ligament",
+    "chinese": "髌韧带"
+  },
+  {
+    "english": "Soleus",
+    "chinese": "比目鱼肌"
+  },
+  {
+    "english": "Tibialis_Anterior",
+    "chinese": "胫骨前肌"
+  },
+  {
+    "english": "Extensor_Hallucis_Longus_R",
+    "chinese": "踇长伸肌-右侧"
+  },
+  {
+    "english": "Fibularis_Brevis_R",
+    "chinese": "腓骨短肌-右侧"
+  },
+  {
+    "english": "Fibularis_Longus_R",
+    "chinese": "腓骨长肌-右侧"
+  },
+  {
+    "english": "Flexor_Digitorum_Longus_R",
+    "chinese": "趾长屈肌-右侧"
+  },
+  {
+    "english": "Flexor_Hallucis_Longus_R",
+    "chinese": "踇长屈肌-右侧"
+  },
+  {
+    "english": "Gastrocnemius_Lateral_Medial_R",
+    "chinese": "腓肠肌内外侧-右侧"
+  },
+  {
+    "english": "Patellar_Ligament_R",
+    "chinese": "髌韧带-右侧"
+  },
+  {
+    "english": "Soleus_R",
+    "chinese": "比目鱼肌-右侧"
+  },
+  {
+    "english": "Tibialis_Anterior_R",
+    "chinese": "胫骨前肌-右侧"
+  },
+  {
+    "english": "Extensor_Digitorum_Longus_R",
+    "chinese": "趾长伸肌-右侧"
+  }
+]
